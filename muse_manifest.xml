@@ -1,0 +1,113 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="apphands.com" resolutions="1x,2x" timestamp="1464604539320">
+  <folder name="css">
+    <file name="site_global.css" crc="523537016"/>
+    <file name="master_a-master.css" crc="192899770" ref="index:services:about:portfolio:contact"/>
+    <file name="index.css" crc="474082443" ref="index"/>
+    <file name="iefonts_index.css" crc="3793668163" ref="index"/>
+    <file name="services.css" crc="517902562" ref="services"/>
+    <file name="iefonts_services.css" crc="510124236" ref="services"/>
+    <file name="about.css" crc="3962156493" ref="about"/>
+    <file name="iefonts_about.css" crc="221512251" ref="about"/>
+    <file name="deadrun.css" crc="3988034553" ref="deadrun"/>
+    <file name="portfolio.css" crc="460623514" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="398525738" ref="portfolio"/>
+    <file name="contact.css" crc="3986086489" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3996876928" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:services:portfolio:about:contact:deadrun"/>
+    <file name="museutils.js" crc="183364071" ref="index:services:portfolio:about:contact:deadrun"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:services:portfolio:about:contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:services:portfolio:about:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index:services:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:portfolio:about:contact:deadrun"/>
+  </folder>
+  <folder name="images">
+    <file name="jenny hands graphic _up.png" crc="4076337767" seo="true" ref="index:services:portfolio:about:contact"/>
+    <file name="apphands logo.png" crc="12224382" seo="true" ref="index:services:portfolio:about:contact"/>
+    <file name="u278-grad.png" crc="519755592" ref="index"/>
+    <file name="iphonewhite.png" crc="3878592912" seo="true" ref="index"/>
+    <file name="ios.png" crc="89578496" seo="true" ref="index"/>
+    <file name="objc.png" crc="204838893" seo="true" ref="index"/>
+    <file name="unity_logo.png" crc="3827609702" seo="true" ref="index"/>
+    <file name="125px-apple-logosvg.png" crc="222388725" seo="true" ref="index"/>
+    <file name="u508-grad.png" crc="3833779212" ref="index"/>
+    <file name="u468-grad.png" crc="448605996" ref="index"/>
+    <file name="clipboard-u522-u522.png" crc="407327164" ref="index:services:portfolio:about:contact"/>
+    <file name="shapeimage_5.png" crc="44649718" seo="true" ref="services"/>
+    <file name="shapeimage_2-1.png" crc="4015384330" seo="true" ref="services"/>
+    <file name="droppedimage.png" crc="3798561817" seo="true" ref="services"/>
+    <file name="unitylogo-185x185.png" crc="306937375" seo="true" ref="services"/>
+    <file name="apphands-process.png" crc="4076631860" seo="true" ref="services"/>
+    <file name="u1829-grad.png" crc="4252476038" ref="portfolio"/>
+    <file name="pasted image 764x519.jpg" crc="153977460" seo="true" ref="portfolio"/>
+    <file name="pasted image 764x519_2x.jpg" crc="4130301856" seo="true" ref="portfolio"/>
+    <file name="pasted image 766x519.jpg" crc="427480009" seo="true" ref="portfolio"/>
+    <file name="pasted image 766x519_2x.jpg" crc="4165871291" seo="true" ref="portfolio"/>
+    <file name="u1850-grad.png" crc="3807648502" ref="portfolio"/>
+    <file name="pasted image 436x875.png" crc="4111919626" seo="true" ref="portfolio"/>
+    <file name="pasted image 436x875_2x.png" crc="4254114939" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x568.jpg" crc="237039040" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x568_2x.jpg" crc="4074085947" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x5682.jpg" crc="222616158" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x568_2x2.jpg" crc="3885289696" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x5683.jpg" crc="262805221" seo="true" ref="portfolio"/>
+    <file name="pasted image 320x568_2x3.jpg" crc="4128018459" seo="true" ref="portfolio"/>
+    <file name="iphone5cblue.png" crc="3967788830" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x320.jpg" crc="4200200413" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x320_2x.jpg" crc="3874366592" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x3202.jpg" crc="3996032859" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x320_2x2.jpg" crc="233120568" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x3203.jpg" crc="3941218622" seo="true" ref="portfolio"/>
+    <file name="pasted image 568x320_2x3.jpg" crc="536236390" seo="true" ref="portfolio"/>
+    <file name="clipboard.png" crc="4263615855" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x.png" crc="127042307" seo="true" ref="portfolio"/>
+    <file name="clipboard.jpg" crc="3981932429" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x.jpg" crc="274071196" seo="true" ref="portfolio"/>
+    <file name="u748-grad.png" crc="3829338105" ref="portfolio"/>
+    <file name="clipboard2.png" crc="24521198" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x2.png" crc="481247451" seo="true" ref="portfolio"/>
+    <file name="clipboard3.png" crc="4069383116" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x3.png" crc="4075925177" seo="true" ref="portfolio"/>
+    <file name="clipboard4.png" crc="3872419324" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x4.png" crc="4133296124" seo="true" ref="portfolio"/>
+    <file name="clipboard5.png" crc="426284855" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x5.png" crc="297594736" seo="true" ref="portfolio"/>
+    <file name="clipboard6.png" crc="4249434866" seo="true" ref="portfolio"/>
+    <file name="clipboard_2x6.png" crc="36121231" seo="true" ref="portfolio"/>
+    <file name="clipboard2.jpg" crc="385875281" seo="true" ref="portfolio"/>
+    <file name="clipboard3.jpg" crc="359481865" seo="true" ref="portfolio"/>
+    <file name="clipboard4.jpg" crc="205348800" seo="true" ref="portfolio"/>
+    <file name="clipboard5.jpg" crc="4087121741" seo="true" ref="portfolio"/>
+    <file name="clipboard6.jpg" crc="38026299" seo="true" ref="portfolio"/>
+    <file name="clipboard7.jpg" crc="4253129272" seo="true" ref="portfolio"/>
+    <file name="clipboard8.jpg" crc="3800289696" seo="true" ref="portfolio"/>
+    <file name="clipboard9.jpg" crc="383007860" seo="true" ref="portfolio"/>
+    <file name="clipboard10.jpg" crc="173674569" seo="true" ref="portfolio"/>
+    <file name="clipboard11.jpg" crc="3931837495" seo="true" ref="portfolio"/>
+    <file name="pasted image 1024x394.jpg" crc="142854746" seo="true" ref="about"/>
+    <file name="clipboard12.jpg" crc="4232359457" seo="true" ref="about"/>
+    <file name="clipboard13.jpg" crc="88538478" seo="true" ref="about"/>
+    <file name="clipboard14.jpg" crc="518510591" seo="true" ref="about"/>
+    <file name="clipboard15.jpg" crc="441906908" seo="true" ref="about"/>
+    <file name="clipboard16.jpg" crc="482791647" seo="true" ref="about"/>
+    <file name="clipboard_2x2.jpg" crc="4056275618" seo="true" ref="about"/>
+    <file name="u1964-grad.png" crc="178403168" ref="about"/>
+    <file name="clipboard17.jpg" crc="3887923786" seo="true" ref="about"/>
+    <file name="clipboard_2x3.jpg" crc="353673781" seo="true" ref="about"/>
+    <file name="pasted image 535x633-crop-u1978.jpg" crc="341352348" ref="about"/>
+    <file name="pasted image 535x633-crop-u1978_2x.jpg" crc="4045426903" ref="about"/>
+    <file name="u1477-grad.png" crc="3811674069" ref="contact"/>
+    <file name="u1475-grad.png" crc="503531938" ref="contact"/>
+    <file name="u1476-grad.png" crc="4133128148" ref="contact"/>
+    <file name="deadrun title@2x.png" crc="97320966" seo="true" ref="deadrun"/>
+    <file name="bloodsplatter1.png" crc="377619599" seo="true" ref="deadrun"/>
+    <file name="logo_app_store-crop-u1620.png" crc="4256494054" ref="deadrun"/>
+  </folder>
+  <file name="index.html" crc="336135095" seo="true" mt="1464604505154" redirect="true"/>
+  <file name="services.html" crc="35643993" seo="true" mt="1464604505154" redirect="true"/>
+  <file name="portfolio.html" crc="136978849" seo="true" mt="1464604505156" redirect="true"/>
+  <file name="about.html" crc="461788724" seo="true" mt="1464604505154" redirect="true"/>
+  <file name="contact.html" crc="85710210" seo="true" mt="1464604505154" redirect="true"/>
+  <file name="deadrun.html" crc="3775512737" seo="true" mt="1408978632662" redirect="true"/>
+</manifest>
